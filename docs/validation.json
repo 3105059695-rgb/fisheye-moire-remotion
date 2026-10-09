@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-09",
+  "composition": "FisheyeMessage",
+  "referenceRecordingId": "7f6a33d3-83e5-4c41-89fe-0910881e46c6",
+  "render": {
+    "width": 1080,
+    "height": 1102,
+    "fps": 30,
+    "frames": 60,
+    "durationSeconds": 2,
+    "codec": "h264",
+    "bytes": 481717,
+    "audio": "No audio stream; reference track is digital silence."
+  },
+  "checks": {
+    "typescript": "passed",
+    "eslint": "passed",
+    "completeVideoDecode": "passed",
+    "studioPreviewAtFrame50": "loaded",
+    "studioErrorOverlay": null,
+    "keyframeVisualInspection": "opening, final emphasis, 4 fps contact sheet",
+    "referenceUsedAsRuntimeAsset": false
+  },
+  "fidelity": "Independent reconstruction; reference font and camera matrix are unknown. Not certified pixel-identical.",
+  "userAestheticApproval": false
+}
