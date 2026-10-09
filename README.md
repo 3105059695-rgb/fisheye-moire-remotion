@@ -39,6 +39,7 @@ npm run lint    # ESLint + TypeScript
 - [参考分析](docs/ANALYSIS.md)：关键帧、构图、材质与声音证据。
 - [逐帧时间线](docs/TIMELINE.md)：黄色强调的测量值和推断曲线。
 - [验证记录](docs/validation.json)：成片规格、代码检查和全片解码。
+- [片段绑定结果](docs/binding-result.json)：REST API 返回 200，片段 ID 与仓库根地址均匹配。
 
 原片音轨为数字静音，本版输出无音轨的静音 MP4。参考原始字体、镜头矩阵和原始工程不可用；本工程是独立重建，字体度量、头像轮廓、透视与高频纹理仍可能与原片有差异。技术验证不代表逐像素一致或用户审美验收。
 
